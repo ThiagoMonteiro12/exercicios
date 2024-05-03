@@ -1,0 +1,1 @@
+let nota1 = (prompt("Escreva a sua primeira nota: "))
