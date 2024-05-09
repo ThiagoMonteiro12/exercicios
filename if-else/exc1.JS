@@ -2,8 +2,8 @@ let username = (prompt("Digite o seu nome: "))
 let senha = (prompt("Digite a senha: "))
 
 if (username == "Admin" && senha == "senha123") {
-    console.log("Deu bom")
+    console.log("Seja bem vindo, Cleberson")
 }
 else(
-    console.log("Deu ruim")
+    console.log("Senha incorreta")
 )
