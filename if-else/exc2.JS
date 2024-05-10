@@ -27,7 +27,7 @@ else if (dia == "5") {
 }
 else if (dia == "6") {
 
-    console.log("Hoje é sábado, só aleguria")
+    console.log("Hoje é sábado, só alegria")
     
 }
 else if (dia == "7") {
